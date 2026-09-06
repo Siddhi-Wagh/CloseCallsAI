@@ -7,6 +7,11 @@
 The project was developed using **Claude Code for AI-assisted development**, with Git-based collaboration, testing, and deployment workflows.
 
 ---
+## 📌 Key Skills Demonstrated
+
+**Data Analysis · Data Cleaning · API Integration · AI-Assisted Development · Call Transcript Analysis · Automation · Webhooks · Sales Analytics · Excel · Git · Collaboration · Testing · Deployment**
+
+---
 
 ## 🎯 Business Problem
 
@@ -144,8 +149,3 @@ The following information has been anonymized or excluded:
    
 - **Screenshots and examples are included for portfolio demonstration purposes.**
 
----
-
-## 📌 Key Skills Demonstrated
-
-**Data Analysis · Data Cleaning · API Integration · AI-Assisted Development · Call Transcript Analysis · Automation · Webhooks · Sales Analytics · Excel · Git · Collaboration · Testing · Deployment**
