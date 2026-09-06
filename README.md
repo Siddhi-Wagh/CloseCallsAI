@@ -148,4 +148,4 @@ The following information has been anonymized or excluded:
 
 ## 📌 Key Skills Demonstrated
 
-**API Integration · Data Analysis · AI-Assisted Development · Call Transcript Analysis · Automation · Webhooks · Sales Analytics · Excel · Git · Collaboration · Testing · Deployment**
+**Data Analysis · Data Cleaning · API Integration · AI-Assisted Development · Call Transcript Analysis · Automation · Webhooks · Sales Analytics · Excel · Git · Collaboration · Testing · Deployment**
