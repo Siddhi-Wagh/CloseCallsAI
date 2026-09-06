@@ -137,11 +137,11 @@ Historical Comparison:
 
 This repository is a **portfolio showcase**. Proprietary source code, API credentials, customer information, call transcripts, phone numbers, and internal infrastructure details are not included.
 The following information has been anonymized or excluded:
+Sales representative names 
+Customer information 
+Sensitive company information 
+**Screenshots and examples are included for portfolio demonstration purposes.**
 
-Sales representative names
-Customer information
-Sensitive company information
-Screenshots and examples are included for portfolio demonstration purposes.
 ---
 
 ## 📌 Key Skills Demonstrated
