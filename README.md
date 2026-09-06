@@ -140,8 +140,9 @@ The following information has been anonymized or excluded:
 
 - Sales representative names 
 - Customer information 
-- Sensitive company information 
-**Screenshots and examples are included for portfolio demonstration purposes.**
+- Sensitive company information
+   
+- **Screenshots and examples are included for portfolio demonstration purposes.**
 
 ---
 
