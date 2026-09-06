@@ -1,4 +1,4 @@
-# CloseCalls AI – Sales Call Intelligence & Operations Tool.
+# CloseCalls AI : Sales Call Intelligence & Operations Tool.
 
 ## 🚀 Project Overview
 
